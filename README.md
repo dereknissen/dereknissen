@@ -6,6 +6,8 @@
 ##### Mountain Interactive - Perris, CA (Data Management, UI Design)
 ##### Mountain Interactive - Fort Loredo, Hermitage (Data Management, UI Design, 3D Modeling)
 
+### And yes, camelCase is superior.
+
 <!--
 **dereknissen/dereknissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
