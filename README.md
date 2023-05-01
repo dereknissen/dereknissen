@@ -7,5 +7,6 @@
 
 ##### Mountain Interactive - Perris, CA (Data Management, UI Design)
 ##### Mountain Interactive - Fort Loredo, Hermitage (Data Management, UI Design, 3D Modeling)
+##### Mountain Interactive Victor Valley California (Software Development)
 
 ### And yes, camelCase is superior.
