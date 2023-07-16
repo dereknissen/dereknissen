@@ -8,4 +8,3 @@
 ##### Mountain Interactive - Perris, CA (Data Management, UI Design)
 ##### Mountain Interactive - Fort Loredo, Hermitage (Data Management, UI Design, 3D Modeling)
 
-### And yes, camelCase is superior.
